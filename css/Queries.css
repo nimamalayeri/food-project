@@ -123,9 +123,9 @@ Instead 1rem = 1em = 16px */
         margin-top: 1.2rem;
     }
 
-    .btn-mobile-nav {
+/*     .btn-mobile-nav {
         display: block;
-    }
+    } */
 
     .main-nav {
         background-color: rgba(255, 255, 255, 0.97);
@@ -162,13 +162,13 @@ Instead 1rem = 1em = 16px */
         transform: translateX(0);
     }
 
-    .nav-open .icon-mobile-nav[name="close-outline"] {
+/*     .nav-open .icon-mobile-nav[name="close-outline"] {
         display: block;
     }
 
     .nav-open .icon-mobile-nav[name="menu-outline"] {
         display: none;
-    }
+    } */
 
     .main-nav-list {
         flex-direction: column;
